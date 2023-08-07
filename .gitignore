@@ -1,6 +1,6 @@
-.gz
-.jpg
-.zip
-.txt
-.jpeg
-.png
+*.gz
+*.jpg
+*.zip
+*.txt
+*.jpeg
+*.png
